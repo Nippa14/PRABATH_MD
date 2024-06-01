@@ -38,9 +38,9 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94762280384"
-      MONGODB_URI="Enter-mongodb_uri"
-      SESSION_ID = "enter session_id"
+      OWNER_NUMBER="940717600633"
+      MONGODB_URI="mongodb+srv://nipunathejan30:<u0dbuLpkaAUdjlRY>@cluster0.nbz4gk2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      SESSION_ID = "PRABATH-MD~lAYjVaYb#LS8NOjCUiO2JI9GfGNtG6egnRh1EfQeF9Mw8U0blcEc"
       port = 5000
       OWNER_NAME = "prabath-md"
       AUTO_REACTION = false
